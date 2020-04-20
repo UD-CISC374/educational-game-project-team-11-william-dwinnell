@@ -39,9 +39,9 @@
     "starter"
   ],
   "template": {
-    "name": "educational-phaser-game-template",
-    "url": "https://github.com/acbart/educational-phaser-game-template",
-    "author": "Austin Cory Bart (https://github.com/acbart)"
+    "name": "educational-game-project-team-11-william-dwinnell",
+    "url": "https://github.com/acbart/educational-game-project-team-11-william-dwinnell",
+    "author": "William Dwinnell (https://github.com/liamdwinnell)"
   },
   "engines": {
     "node": ">=8.0.0"
