@@ -26,6 +26,10 @@ export default class MainScene extends Phaser.Scene {
   c_8s: Phaser.GameObjects.Sprite;
   
   middle_c_sharp_2: Phaser.GameObjects.Sprite;
+  bar: Phaser.GameObjects.Sprite;
+  current_note: number;
+  score: number;
+  label_score: Phaser.GameObjects.Text;
 
 
   constructor() {
@@ -40,6 +44,9 @@ export default class MainScene extends Phaser.Scene {
     this.background.setOrigin(0, 0);
 
     let key_height = 600
+
+    this.bar = this.add.sprite(DEFAULT_WIDTH/2-15, 240, "q_c_1")
+    this.bar.scale = 3
 
     //Note letter then key val for var name
     this.c_1 = this.add.sprite(440, key_height, "white_key").setInteractive()
@@ -77,6 +84,11 @@ export default class MainScene extends Phaser.Scene {
     this.a_6s.on('pointerdown', this.play_a_6s).on('pointerup', this.stop_a_6s);
     this.c_8s.on('pointerdown', this.play_c_8s).on('pointerup', this.stop_c_8s);
   
+    this.score = 0
+    this.current_note = 1
+
+    this.label_score = this.add.text(30,30, "Score: " + this.score, 
+    {font: "65px Arial",fill: "#000000",align: "center"})
 
     //this.c_1.on('pointerdown', this.play_c_1)
 
@@ -104,14 +116,86 @@ export default class MainScene extends Phaser.Scene {
  
 
   //stop c1 
-  stop_c_1(){}
-  stop_d_2(){}
-  stop_e_3(){}
-  stop_f_4(){}
-  stop_g_5(){}
-  stop_a_6(){}
-  stop_b_7(){}
-  stop_c_8(){}
+  stop_c_1 = () => {
+
+    if(this.current_note == 1){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
+  stop_d_2 = () => {
+
+    if(this.current_note == 2){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
+  stop_e_3 = () => {
+
+    if(this.current_note == 3){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
+  stop_f_4 = () => {
+        
+    if(this.current_note == 4){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
+  stop_g_5 = () => {
+        
+    if(this.current_note == 5){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
+  stop_a_6 = () => {
+        
+    if(this.current_note == 6){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
+  stop_b_7 = () => {
+        
+    if(this.current_note == 7){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
+  stop_c_8 = () => {
+        
+    if(this.current_note == 8){
+      this.score++
+      this.new_note()
+    } else {
+      this.score--
+    }
+
+  }
 
   stop_c_1s(){}
   stop_d_2s(){}
@@ -122,6 +206,27 @@ export default class MainScene extends Phaser.Scene {
   stop_b_7s(){}
   stop_c_8s(){}
 
+  new_note = () => {
+    this.current_note = Phaser.Math.Between(1, 8)
+    if(this.current_note == 1){
+      this.bar.setTexture("q_c_1")
+    } else if (this.current_note == 2) {
+      this.bar.setTexture("q_d_2")
+    } else if (this.current_note == 3) {
+      this.bar.setTexture("q_e_3")
+    } else if (this.current_note == 4) {
+      this.bar.setTexture("q_f_4")
+    } else if (this.current_note == 5) {
+      this.bar.setTexture("q_g_5")
+    } else if (this.current_note == 6) {
+      this.bar.setTexture("q_a_6")
+    } else if (this.current_note == 7) {
+      this.bar.setTexture("q_b_7")
+    } else if (this.current_note == 8) {
+      this.bar.setTexture("q_c_8")
+    }
+  }
+
   play_key(pointer, gameObject){
 
     gameObject.play("activate_white")
@@ -130,5 +235,6 @@ export default class MainScene extends Phaser.Scene {
   }
 
   update() {
+    this.label_score.setText("Score: " + this.score)
   }
 }
