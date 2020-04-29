@@ -32,6 +32,46 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/icons/icons8-game-controller-16.png"
   },
   {
+    "revision": "1d3e7fd111b9e6810500a7ace1f461d9",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/menu_images/menu_background.png"
+  },
+  {
+    "revision": "9e3d5ac021b1d88387b70eced8bc2b15",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/menu_images/note_mode.png"
+  },
+  {
+    "revision": "8d636aec319861bcd966521ca10c0696",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/menu_images/select_backdrop.png"
+  },
+  {
+    "revision": "702b1ee000835c083351e2e1e9fe3445",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/menu_images/selector.png"
+  },
+  {
+    "revision": "745e0e981c3234770ae5058c5d6bd922",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/menu_images/song_mode.png"
+  },
+  {
+    "revision": "7efcc48bc9ef21219e3ea64096684cc2",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/menu_images/story_mode.png"
+  },
+  {
+    "revision": "686e73af5be2ab53971da75aa8cd1cbf",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/menu_images/title.png"
+  },
+  {
+    "revision": "6e387363e75074ca8edc901f26b349c4",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/piano_scene_1.jpg"
+  },
+  {
+    "revision": "61123757a7c10a7d411e62fe95340973",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/piano_scene_2.jpg"
+  },
+  {
+    "revision": "52086ac1d0ad8eac7990e4eef6726f17",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/piano_scene_3.jpg"
+  },
+  {
     "revision": "468dd6136ed428e64a7d251ef93d0596",
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/q_a_6.png"
   },
@@ -76,15 +116,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/devfavicon.ico"
   },
   {
-    "revision": "5e72fa6a79cd9ee262b5",
-    "url": "/educational-game-project-team-11-william-dwinnell/devgen.main.7ae21445c1e08be920b4.bundle.js"
+    "revision": "fae29223f0d29b008df7",
+    "url": "/educational-game-project-team-11-william-dwinnell/devgen.main.6c0e4bbfaedec7af62d9.bundle.js"
   },
   {
     "revision": "5e69403aa42e950fedff",
     "url": "/educational-game-project-team-11-william-dwinnell/devgen.vendors.0805bb80903235d40eaf.bundle.js"
   },
   {
-    "revision": "65c6a22c1725e114b60b07da74a76e0c",
+    "revision": "fcc2fb0ede0d2c187ec9983d0645331d",
     "url": "/educational-game-project-team-11-william-dwinnell/devindex.html"
   },
   {
