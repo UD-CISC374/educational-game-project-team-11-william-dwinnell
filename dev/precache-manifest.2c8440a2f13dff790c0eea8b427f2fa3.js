@@ -144,6 +144,70 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/piano_scene_3.jpg"
   },
   {
+    "revision": "216f329163df8cea3cf3d61449571e61",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/a.m4a"
+  },
+  {
+    "revision": "9dc32d54026b51a427f23117a456bd32",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/a.mp3"
+  },
+  {
+    "revision": "e8faeb793a67445875f26acff266f8fe",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/b.m4a"
+  },
+  {
+    "revision": "2c959d9c5378e75965571f1bade4fdfc",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/b.mp3"
+  },
+  {
+    "revision": "9588bdb2fb480a9ae5c2d563bf66995a",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/c.m4a"
+  },
+  {
+    "revision": "1dbc1135bfc4ce0d139580a236c07ba8",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/c.mp3"
+  },
+  {
+    "revision": "63c23cc6e374ce47443fe223c5047a82",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/c2.m4a"
+  },
+  {
+    "revision": "218696e38a93aac8ea9b8663ebac5326",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/c2.mp3"
+  },
+  {
+    "revision": "01f6db0f79db432a721b5b63d785460f",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/d.m4a"
+  },
+  {
+    "revision": "27aea9530173cde4283f7ec8519d3e0f",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/d.mp3"
+  },
+  {
+    "revision": "e98941eed8ae50f68d945d270972a92f",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/e.m4a"
+  },
+  {
+    "revision": "6e8e13010f812c846757e292bbc764c9",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/e.mp3"
+  },
+  {
+    "revision": "85bc29885168c0e73170887d92010beb",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/f.m4a"
+  },
+  {
+    "revision": "69d65370798e738435786d4eef5cdf60",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/f.mp3"
+  },
+  {
+    "revision": "ff18a4b4b7bd65a67657341c285b0688",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/g.m4a"
+  },
+  {
+    "revision": "f80a6a95432b7b9289b684bb146fcc53",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/g.mp3"
+  },
+  {
     "revision": "2eccd3b7f8a93d8e74194c592c1e441d",
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/white_key.png"
   },
@@ -152,15 +216,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/devfavicon.ico"
   },
   {
-    "revision": "5ec5b2447b5ddfe92438",
-    "url": "/educational-game-project-team-11-william-dwinnell/devgen.main.97a8d23709e787530266.bundle.js"
+    "revision": "4b878db287305bf69c8f",
+    "url": "/educational-game-project-team-11-william-dwinnell/devgen.main.8f4fa4615badc43f3558.bundle.js"
   },
   {
     "revision": "5e69403aa42e950fedff",
     "url": "/educational-game-project-team-11-william-dwinnell/devgen.vendors.0805bb80903235d40eaf.bundle.js"
   },
   {
-    "revision": "dd56fbde74a03115ce2e47258cb1cc0f",
+    "revision": "f9a1533831c28b49a8ae1f629068e4ec",
     "url": "/educational-game-project-team-11-william-dwinnell/devindex.html"
   },
   {
