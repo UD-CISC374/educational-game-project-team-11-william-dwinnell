@@ -1,4 +1,4 @@
-importScripts("/educational-game-project-team-11-william-dwinnell/devprecache-manifest.2c8440a2f13dff790c0eea8b427f2fa3.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/educational-game-project-team-11-william-dwinnell/devprecache-manifest.0a8cfeb64db03a15897af19cd3b509a7.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /**
  * You should only modify this, if you know what you are doing.
