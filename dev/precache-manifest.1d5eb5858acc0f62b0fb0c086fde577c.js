@@ -156,7 +156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/note_mode/select_level7.png"
   },
   {
-    "revision": "df480141f51104a338addeb93c983d15",
+    "revision": "9c293f2c824ef3a63f562af3182ea22e",
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/note_mode/select_level8.png"
   },
   {
@@ -174,6 +174,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52086ac1d0ad8eac7990e4eef6726f17",
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/piano_scene_3.jpg"
+  },
+  {
+    "revision": "f50f8397aaa4bbbdff91fc0acaa298fe",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/song_mode/song1.png"
+  },
+  {
+    "revision": "9c4d946252ec260b9785543208360922",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/song_mode/song2.png"
   },
   {
     "revision": "216f329163df8cea3cf3d61449571e61",
@@ -240,6 +248,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/g.mp3"
   },
   {
+    "revision": "5a922aa56755f764ca51b5faad29f954",
+    "url": "/educational-game-project-team-11-william-dwinnell/devassets/sounds/wrong_note.mp3"
+  },
+  {
     "revision": "2eccd3b7f8a93d8e74194c592c1e441d",
     "url": "/educational-game-project-team-11-william-dwinnell/devassets/white_key.png"
   },
@@ -248,15 +260,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/devfavicon.ico"
   },
   {
-    "revision": "677ef688a99187310c7c",
-    "url": "/educational-game-project-team-11-william-dwinnell/devgen.main.34ab98ef5fbc35853f6c.bundle.js"
+    "revision": "95e933e46fb561706fbf",
+    "url": "/educational-game-project-team-11-william-dwinnell/devgen.main.d42a33a33f75841972a6.bundle.js"
   },
   {
     "revision": "5e69403aa42e950fedff",
     "url": "/educational-game-project-team-11-william-dwinnell/devgen.vendors.0805bb80903235d40eaf.bundle.js"
   },
   {
-    "revision": "09871deba0ef31266528229cb200584b",
+    "revision": "794281132d1c835cb8431baf2fda893c",
     "url": "/educational-game-project-team-11-william-dwinnell/devindex.html"
   },
   {
