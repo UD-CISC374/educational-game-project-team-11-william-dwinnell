@@ -260,15 +260,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/betafavicon.ico"
   },
   {
-    "revision": "0a34f65fb9526b8d72b2",
-    "url": "/educational-game-project-team-11-william-dwinnell/betagen.main.feceaf1b183d93bfa67a.bundle.js"
+    "revision": "5fa024521643ab500ea5",
+    "url": "/educational-game-project-team-11-william-dwinnell/betagen.main.442b3b81e5851d798385.bundle.js"
   },
   {
     "revision": "5e69403aa42e950fedff",
     "url": "/educational-game-project-team-11-william-dwinnell/betagen.vendors.0805bb80903235d40eaf.bundle.js"
   },
   {
-    "revision": "78769c24fe5b6cf48d79f01e838c7804",
+    "revision": "96c622d7034f2bfec2b54525811ef246",
     "url": "/educational-game-project-team-11-william-dwinnell/betaindex.html"
   },
   {
