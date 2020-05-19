@@ -272,6 +272,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/finalassets/sounds/wrong_note.mp3"
   },
   {
+    "revision": "0810ba66fb50c3c018a01cd2acb4c192",
+    "url": "/educational-game-project-team-11-william-dwinnell/finalassets/story_mode/GENKI.png"
+  },
+  {
+    "revision": "f6a74780b2d1ff852877d7b3fc844359",
+    "url": "/educational-game-project-team-11-william-dwinnell/finalassets/story_mode/MAIN.png"
+  },
+  {
+    "revision": "64a481834665c74386ee179da811ac6a",
+    "url": "/educational-game-project-team-11-william-dwinnell/finalassets/story_mode/RIVAL.png"
+  },
+  {
+    "revision": "602d3d8ac8bbdccce67a9f90db75e712",
+    "url": "/educational-game-project-team-11-william-dwinnell/finalassets/story_mode/THUG.png"
+  },
+  {
     "revision": "749efd50bd6bdb949f8ab67147d8c30d",
     "url": "/educational-game-project-team-11-william-dwinnell/finalassets/story_mode/text_box.png"
   },
@@ -284,15 +300,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/educational-game-project-team-11-william-dwinnell/finalfavicon.ico"
   },
   {
-    "revision": "3ea9dd31c7c893a0d99e",
-    "url": "/educational-game-project-team-11-william-dwinnell/finalgen.main.27549c85f95792a8d5c6.bundle.js"
+    "revision": "9b9619dda362d910c9bd",
+    "url": "/educational-game-project-team-11-william-dwinnell/finalgen.main.e5903ae9d1276a730654.bundle.js"
   },
   {
     "revision": "5e69403aa42e950fedff",
     "url": "/educational-game-project-team-11-william-dwinnell/finalgen.vendors.0805bb80903235d40eaf.bundle.js"
   },
   {
-    "revision": "33eaf5a5d333daabfab2b8a51afae9f7",
+    "revision": "a8134cd70f2e5f6b8053251c1a7b1aa3",
     "url": "/educational-game-project-team-11-william-dwinnell/finalindex.html"
   },
   {
