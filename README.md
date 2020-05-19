@@ -1,3 +1,11 @@
+Title: Prince Of Piano
+
+Author: William Dwinnell
+
+Blurb: I have been designing a game to teach people how to play piano sheet music. My goal is to make a game that helps associate notes with their keys and to help build reaction time to those notes. Ultimately I want to incorporate my game into a visual novel format under story mode, which would help test the players' learned skills in a fun way. By the end of the playtest I hope that you will be able to recognize a few piano notes, and enjoy the game.
+
+Youtube Video: https://youtu.be/NGO74bRYhbA
+
 # educational-phaser-game-template
 
 Template for designing educational Phaser Games
