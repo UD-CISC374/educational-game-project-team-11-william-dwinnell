@@ -24,7 +24,7 @@ export default class PreloadScene extends Phaser.Scene {
     //NOTE MODE ASSETS//
 
     this.load.image("background", "assets/note_mode/temp_back.jpg")
-    
+
     this.load.image("empty_bar", "assets/bars_tile.png")
     this.load.image("q_c_1", "assets/note_mode/q_c_1.png")
     this.load.image("q_d_2", "assets/note_mode/q_d_2.png")
@@ -44,6 +44,7 @@ export default class PreloadScene extends Phaser.Scene {
     this.load.image("note_lvl7", "assets/note_mode/level_select_7.png")
     this.load.image("note_lvl8", "assets/note_mode/level_select_8.png")
 
+    //SONG MODE ASSETS//
     //load song select images
     this.load.image("song_1", "assets/song_mode/song1.png")
     this.load.image("song_2", "assets/song_mode/song2.png")
@@ -53,6 +54,7 @@ export default class PreloadScene extends Phaser.Scene {
     this.load.spritesheet("white_key", "assets/white_key.png", {frameWidth: 50, frameHeight: 200})
     this.load.spritesheet("black_key", "assets/black_key.png", {frameWidth: 30, frameHeight: 132})
 
+    //sounds for keys (all modes)
     this.load.audio("c1_sound", ["assets/sounds/c.mp3"])
     this.load.audio("d2_sound", "assets/sounds/d.mp3")
     this.load.audio("e3_sound", "assets/sounds/e.mp3")
@@ -63,6 +65,16 @@ export default class PreloadScene extends Phaser.Scene {
     this.load.audio("c8_sound", "assets/sounds/c2.mp3")
     this.load.audio("wrong", "assets/sounds/wrong_note.mp3")
 
+    //STORY MODE ASSETS//
+    this.load.image("school_bg","assets/piano_scene_2.jpg")
+    this.load.image("food_bg","assets/piano_scene_3.jpg")
+    this.load.image("compete_bg", "assets/piano_scene_4.jpg")
+    this.load.image("text_box", "assets/story_mode/text_box.png")
+    this.load.image("you","assets/story_mode/MAIN.png")
+    this.load.image("alex","assets/story_mode/GENKI.png")
+    this.load.image("punk","assets/story_mode/THUG.png")
+    this.load.image("rival","assets/story_mode/RIVAL.png")
+    
   }
 
   create() {

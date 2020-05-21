@@ -66,7 +66,7 @@ export default class MenuScene extends Phaser.Scene {
         }
 
         if(this.hiScore[3] < 10){
-            this.story_mode.on('pointerover',function(pointer){mode3txt.setText("🔒 Get a score of 5 or more on level 4 \n     of note mode to play song mode")})
+            this.story_mode.on('pointerover',function(pointer){mode3txt.setText("🔒 Get a score of 10 or more on level 4 \n     of note mode to play song mode")})
             this.story_mode.on('pointerout',function(pointer){mode3txt.setText("")})
         } else {
             this.story_mode.on('pointerover',function(pointer){mode3txt.setText("Play challenges to progress your story\nto the top of the piano world\n(use ▲ ▼ arrow keys and ↵ to select)")})
